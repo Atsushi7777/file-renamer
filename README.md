@@ -1,5 +1,4 @@
 # File Renamer
-# File Renamer
 
 フォルダ内のファイルを「YYYYMMDD_連番.ext」に一括リネームします。
 
